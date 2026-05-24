@@ -8,6 +8,22 @@ A modern, feature-rich weather application built with **Kotlin** and **Jetpack C
 [![Compose](https://img.shields.io/badge/Jetpack_Compose-UI-4285F4.svg?style=flat&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 ---
 
+<table align="center">
+  <tr>
+    <td align="center" bgcolor="#1f2328" style="padding: 12px 24px; border-radius: 8px;">
+      <p align="center" style="margin: 0 0 12px 0;">
+        📲 <b>Want to try the app right now?</b><br>
+        No need to build the code — just download the ready-to-use build on your smartphone or emulator.
+      </p>
+      <a href="https://github.com/Makuhin-Egor/Weatherik/releases/download/v1.0.0/Weatherik.apk">
+        <img src="https://img.shields.io/badge/Download_APK-Latest_Build-green?style=for-the-badge&logo=android&logoColor=white&version=1.0.0" alt="Download APK">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Features
 
 ### 🌡️ Weather Data
