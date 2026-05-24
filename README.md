@@ -2,6 +2,10 @@
 
 A modern, feature-rich weather application built with **Kotlin** and **Jetpack Compose**, providing real-time weather data, hourly forecasts, and 10-day predictions with a beautiful, intuitive UI.
 
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.x-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-OS-3DDC84.svg?style=flat&logo=android&logoColor=white)](https://developer.android.com)
+[![Gradle](https://img.shields.io/badge/Gradle-Build-02303A.svg?style=flat&logo=gradle&logoColor=white)](https://gradle.org/)
+[![Compose](https://img.shields.io/badge/Jetpack_Compose-UI-4285F4.svg?style=flat&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 ---
 
 ## ✨ Features
