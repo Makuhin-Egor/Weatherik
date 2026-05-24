@@ -51,4 +51,4 @@ A modern, feature-rich weather application built with **Kotlin** and **Jetpack C
 
 ---
 
-Made with ❤️ and Kotlin &nbsp;•&nbsp; Diamond 💎 the repo if you find it useful!
+<p align="center">Made with ❤️ and Kotlin</p>
